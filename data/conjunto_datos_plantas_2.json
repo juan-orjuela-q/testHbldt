@@ -1,0 +1,806 @@
+[
+    {
+        "x": 1,
+        "y": 250,
+        "z": 5,
+        "nombreComun": "Ceiba",
+        "nombreCientifico": "Ceiba pentandra",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 490,
+        "z": 5,
+        "nombreComun": "Plátano",
+        "nombreCientifico": "Musa paradisiaca",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 423,
+        "z": 5,
+        "nombreComun": "Yuca",
+        "nombreCientifico": "Manihot esculenta",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 91,
+        "z": 5,
+        "nombreComun": "Caña de azúcar",
+        "nombreCientifico": "Saccharum officinarum",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 992,
+        "z": 5,
+        "nombreComun": "Guayacán",
+        "nombreCientifico": "Tabebuia chrysantha",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 741,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 84,
+        "z": 5,
+        "nombreComun": "Palma de cera",
+        "nombreCientifico": "Ceroxylon quindiuense",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 250,
+        "z": 5,
+        "nombreComun": "Coca",
+        "nombreCientifico": "Erythroxylum coca",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 24,
+        "z": 5,
+        "nombreComun": "Caracolí",
+        "nombreCientifico": "Anacardium excelsum",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 420,
+        "z": 5,
+        "nombreComun": "Piña",
+        "nombreCientifico": "Ananas comosus",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 212,
+        "z": 5,
+        "nombreComun": "Uchuva",
+        "nombreCientifico": "Physalis peruviana",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 357,
+        "z": 5,
+        "nombreComun": "Guayacán",
+        "nombreCientifico": "Tabebuia chrysantha",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 341,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 52,
+        "z": 5,
+        "nombreComun": "Coca",
+        "nombreCientifico": "Erythroxylum coca",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 410,
+        "z": 5,
+        "nombreComun": "Banano",
+        "nombreCientifico": "Musa acuminata",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 821,
+        "z": 5,
+        "nombreComun": "Cabuya",
+        "nombreCientifico": "Furcraea andina",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 44,
+        "z": 5,
+        "nombreComun": "Palma de cera",
+        "nombreCientifico": "Ceroxylon quindiuense",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 468,
+        "z": 5,
+        "nombreComun": "Uchuva",
+        "nombreCientifico": "Physalis peruviana",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 1677,
+        "z": 5,
+        "nombreComun": "Guadua",
+        "nombreCientifico": "Guadua angustifolia",
+        "featured": false
+    },
+    {
+        "x": 13,
+        "y": 66,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 10,
+        "y": 415,
+        "z": 5,
+        "nombreComun": "Diomate",
+        "nombreCientifico": "Astronium graveolens",
+        "featured": true,
+        "img": "./img/Astronium-graveolens.webp"
+    },
+    {
+        "x": 11,
+        "y": 274,
+        "z": 5,
+        "nombreComun": "Indio desnudo",
+        "nombreCientifico": "Bursera simaruba",
+        "featured": true,
+        "img": "./img/bursera-simaruba.webp"
+    },
+    {
+        "x": 2,
+        "y": 423,
+        "z": 5,
+        "nombreComun": "Ceiba",
+        "nombreCientifico": "Ceiba pentandra",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 307,
+        "z": 5,
+        "nombreComun": "Cabuya",
+        "nombreCientifico": "Furcraea andina",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 228,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 8,
+        "y": 122,
+        "z": 5,
+        "nombreComun": "Achiote",
+        "nombreCientifico": "Bixa orellana",
+        "featured": false
+    },
+    {
+        "x": 8,
+        "y": 147,
+        "z": 5,
+        "nombreComun": "Palma de cera",
+        "nombreCientifico": "Ceroxylon quindiuense",
+        "featured": false
+    },
+    {
+        "x": 8,
+        "y": 351,
+        "z": 5,
+        "nombreComun": "Plátano",
+        "nombreCientifico": "Musa paradisiaca",
+        "featured": false
+    },
+    {
+        "x": 8,
+        "y": 345,
+        "z": 5,
+        "nombreComun": "Caña de azúcar",
+        "nombreCientifico": "Saccharum officinarum",
+        "featured": false
+    },
+    {
+        "x": 8,
+        "y": 1365,
+        "z": 5,
+        "nombreComun": "Piña",
+        "nombreCientifico": "Ananas comosus",
+        "featured": false
+    },
+    {
+        "x": 8,
+        "y": 428,
+        "z": 5,
+        "nombreComun": "Cabuya",
+        "nombreCientifico": "Furcraea andina",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 780,
+        "z": 5,
+        "nombreComun": "Zapote",
+        "nombreCientifico": "Pouteria sapota",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 429,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 219,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 357,
+        "z": 5,
+        "nombreComun": "Plátano",
+        "nombreCientifico": "Musa paradisiaca",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 210,
+        "z": 5,
+        "nombreComun": "Palma de cera",
+        "nombreCientifico": "Ceroxylon quindiuense",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 232,
+        "z": 5,
+        "nombreComun": "Caracolí",
+        "nombreCientifico": "Anacardium excelsum",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 495,
+        "z": 5,
+        "nombreComun": "Frijol",
+        "nombreCientifico": "Phaseolus vulgaris",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 384,
+        "z": 5,
+        "nombreComun": "Frijol",
+        "nombreCientifico": "Phaseolus vulgaris",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 414,
+        "z": 5,
+        "nombreComun": "Banano",
+        "nombreCientifico": "Musa acuminata",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 314,
+        "z": 5,
+        "nombreComun": "Caña de azúcar",
+        "nombreCientifico": "Saccharum officinarum",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 69,
+        "z": 5,
+        "nombreComun": "Banano",
+        "nombreCientifico": "Musa acuminata",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 1670,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 428,
+        "z": 5,
+        "nombreComun": "Zapote",
+        "nombreCientifico": "Pouteria sapota",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 302,
+        "z": 5,
+        "nombreComun": "Nogal cafetero",
+        "nombreCientifico": "Cordia alliodora",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 301,
+        "z": 5,
+        "nombreComun": "Yuca",
+        "nombreCientifico": "Manihot esculenta",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 462,
+        "z": 5,
+        "nombreComun": "Coca",
+        "nombreCientifico": "Erythroxylum coca",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 444,
+        "z": 5,
+        "nombreComun": "Guayacán",
+        "nombreCientifico": "Tabebuia chrysantha",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 312,
+        "z": 5,
+        "nombreComun": "Yuca",
+        "nombreCientifico": "Manihot esculenta",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 232,
+        "z": 5,
+        "nombreComun": "Ceiba",
+        "nombreCientifico": "Ceiba pentandra",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 48,
+        "z": 5,
+        "nombreComun": "Coca",
+        "nombreCientifico": "Erythroxylum coca",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 226,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 436,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 295,
+        "z": 5,
+        "nombreComun": "Yuca",
+        "nombreCientifico": "Manihot esculenta",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 25,
+        "z": 5,
+        "nombreComun": "Piña",
+        "nombreCientifico": "Ananas comosus",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 464,
+        "z": 5,
+        "nombreComun": "Guayacán",
+        "nombreCientifico": "Tabebuia chrysantha",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 180,
+        "z": 5,
+        "nombreComun": "Zapote",
+        "nombreCientifico": "Pouteria sapota",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 225,
+        "z": 5,
+        "nombreComun": "Palma de cera",
+        "nombreCientifico": "Ceroxylon quindiuense",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 382,
+        "z": 5,
+        "nombreComun": "Piña",
+        "nombreCientifico": "Ananas comosus",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 133,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 1706,
+        "z": 5,
+        "nombreComun": "Plátano",
+        "nombreCientifico": "Musa paradisiaca",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 1208,
+        "z": 5,
+        "nombreComun": "Cabuya",
+        "nombreCientifico": "Furcraea andina",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 1650,
+        "z": 5,
+        "nombreComun": "Zapote",
+        "nombreCientifico": "Pouteria sapota",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 43,
+        "z": 5,
+        "nombreComun": "Frijol",
+        "nombreCientifico": "Phaseolus vulgaris",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 889,
+        "z": 5,
+        "nombreComun": "Cabuya",
+        "nombreCientifico": "Furcraea andina",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 74,
+        "z": 5,
+        "nombreComun": "Caracolí",
+        "nombreCientifico": "Anacardium excelsum",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 1742,
+        "z": 5,
+        "nombreComun": "Coya Colorado",
+        "nombreCientifico": "Trichilia oligofoliolata",
+        "featured": true,
+        "img": "./img/trichilia-oligofoliolata.webp"
+    },
+    {
+        "x": 9,
+        "y": 343,
+        "z": 5,
+        "nombreComun": "Piña",
+        "nombreCientifico": "Ananas comosus",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 192,
+        "z": 5,
+        "nombreComun": "Uchuva",
+        "nombreCientifico": "Physalis peruviana",
+        "featured": false
+    },
+    {
+        "x": 2,
+        "y": 159,
+        "z": 5,
+        "nombreComun": "Planta de ejemplo",
+        "nombreCientifico": "Erythroxulym jaimei",
+        "featured": true,
+        "img": "./img/erythroxulym-jaimei.webp"
+    },
+    {
+        "x": 9,
+        "y": 468,
+        "z": 5,
+        "nombreComun": "Nogal cafetero",
+        "nombreCientifico": "Cordia alliodora",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 226,
+        "z": 5,
+        "nombreComun": "Nogal cafetero",
+        "nombreCientifico": "Cordia alliodora",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 357,
+        "z": 5,
+        "nombreComun": "Frijol",
+        "nombreCientifico": "Phaseolus vulgaris",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 101,
+        "z": 5,
+        "nombreComun": "Quinua",
+        "nombreCientifico": "Chenopodium quinoa",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 247,
+        "z": 5,
+        "nombreComun": "Quinua",
+        "nombreCientifico": "Chenopodium quinoa",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 50,
+        "z": 5,
+        "nombreComun": "Achiote",
+        "nombreCientifico": "Bixa orellana",
+        "featured": false
+    },
+    {
+        "x": 4,
+        "y": 274,
+        "z": 5,
+        "nombreComun": "Caña de azúcar",
+        "nombreCientifico": "Saccharum officinarum",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 332,
+        "z": 5,
+        "nombreComun": "Plátano",
+        "nombreCientifico": "Musa paradisiaca",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 98,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 57,
+        "z": 5,
+        "nombreComun": "Banano",
+        "nombreCientifico": "Musa acuminata",
+        "featured": false
+    },
+    {
+        "x": 5,
+        "y": 233,
+        "z": 5,
+        "nombreComun": "Uchuva",
+        "nombreCientifico": "Physalis peruviana",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 339,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 6,
+        "y": 879,
+        "z": 5,
+        "nombreComun": "Zapote",
+        "nombreCientifico": "Pouteria sapota",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 278,
+        "z": 5,
+        "nombreComun": "Ceiba",
+        "nombreCientifico": "Ceiba pentandra",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 357,
+        "z": 5,
+        "nombreComun": "Caracolí",
+        "nombreCientifico": "Anacardium excelsum",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 288,
+        "z": 5,
+        "nombreComun": "Coca",
+        "nombreCientifico": "Erythroxylum coca",
+        "featured": false
+    },
+    {
+        "x": 9,
+        "y": 251,
+        "z": 5,
+        "nombreComun": "Café",
+        "nombreCientifico": "Coffea arabica",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 404,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 1437,
+        "z": 5,
+        "nombreComun": "Quinua",
+        "nombreCientifico": "Chenopodium quinoa",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 1808,
+        "z": 5,
+        "nombreComun": "Maíz",
+        "nombreCientifico": "Zea mays",
+        "featured": false
+    },
+    {
+        "x": 3,
+        "y": 1161,
+        "z": 5,
+        "nombreComun": "Guadua",
+        "nombreCientifico": "Guadua angustifolia",
+        "featured": false
+    },
+    {
+        "x": 10,
+        "y": 208,
+        "z": 5,
+        "nombreComun": "Plátano",
+        "nombreCientifico": "Musa paradisiaca",
+        "featured": false
+    },
+    {
+        "x": 7,
+        "y": 795,
+        "z": 5,
+        "nombreComun": "Banano",
+        "nombreCientifico": "Musa acuminata",
+        "featured": false
+    },
+    {
+        "x": 12,
+        "y": 137,
+        "z": 5,
+        "nombreComun": "Zapote",
+        "nombreCientifico": "Pouteria sapota",
+        "featured": false
+    },
+    {
+        "x": 11,
+        "y": 381,
+        "z": 5,
+        "nombreComun": "Caracolí",
+        "nombreCientifico": "Anacardium excelsum",
+        "featured": false
+    },
+    {
+        "x": 13,
+        "y": 301,
+        "z": 5,
+        "nombreComun": "Quinua",
+        "nombreCientifico": "Chenopodium quinoa",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 1573,
+        "z": 5,
+        "nombreComun": "Piña",
+        "nombreCientifico": "Ananas comosus",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 481,
+        "z": 5,
+        "nombreComun": "Nogal cafetero",
+        "nombreCientifico": "Cordia alliodora",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 37,
+        "z": 5,
+        "nombreComun": "Yuca",
+        "nombreCientifico": "Manihot esculenta",
+        "featured": false
+    },
+    {
+        "x": 1,
+        "y": 259,
+        "z": 5,
+        "nombreComun": "Nogal cafetero",
+        "nombreCientifico": "Cordia alliodora",
+        "featured": false
+    }
+]
